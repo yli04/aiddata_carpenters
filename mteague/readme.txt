@@ -1,0 +1,1 @@
+I hope to be more comfortable with using GIS in the context of aid data, as well as to learn to use new programs and techniques like GitHub.  

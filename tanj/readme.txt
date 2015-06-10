@@ -1,0 +1,1 @@
+I hope I become more comfortable using a computer. I want to learn more about computer science and hopefully I can get into the CSCI 141 class in the Fall or Spring semester this coming school year. :)

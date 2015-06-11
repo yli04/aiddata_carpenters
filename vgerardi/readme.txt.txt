@@ -1,0 +1,1 @@
+I hope to get some data skills out of this course that hopefully I will be able to use in the future.

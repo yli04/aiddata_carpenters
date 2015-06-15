@@ -1,0 +1,3 @@
+I hope to have an introduction to at least one of the following data tools: 
+SPSS, STATA or R. If that is not possible, I would at least like to see how data is 
+manipulated to test different hypotheses in social science.

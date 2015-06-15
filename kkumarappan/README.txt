@@ -1,0 +1,1 @@
+I'd like to get a better sense of different ways to handle data and use technology for different project settings. And this way, if in the future I choose to, I can choose from a larger list of programs and languages to figure out what skills I would need and want to learn and acquire.
